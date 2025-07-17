@@ -108,7 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Credits
 
-Created with ❤️ by [Max Reddel](https://www.linkedin.com/in/maxreddel/) together with Claude, based on John Conway's original Game of Life (1970).
+Created by [Max Reddel](https://www.linkedin.com/in/maxreddel/) together with Claude, based on John Conway's original Game of Life (1970).
 
 ## 🌟 Acknowledgments
 
@@ -121,7 +121,3 @@ Created with ❤️ by [Max Reddel](https://www.linkedin.com/in/maxreddel/) toge
 - [Conway's Game of Life - Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - [LifeWiki - The Game of Life Wiki](https://conwaylife.com/wiki/Main_Page)
 - [Patterns Collection](https://conwaylife.com/wiki/Category:Patterns)
-
----
-
-**Note**: Remember to update the GitHub username and repository URL in both the code and this README!
