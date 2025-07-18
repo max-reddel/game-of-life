@@ -8,7 +8,7 @@ A modern, interactive implementation of Conway's Game of Life with a beautiful g
 
 ## 🎮 Live Demo
 
-[Try it live here](https://yourusername.github.io/game-of-life/) <!-- Update with your actual GitHub Pages URL -->
+[Try it live here](https://game-of-life.fun/) 
 
 ## ✨ Features
 
